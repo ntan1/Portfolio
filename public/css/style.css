@@ -17,7 +17,7 @@ body {
 }
 
 .title {
-	animation: 1s ease-out 0s 1 slideInFromLeft;
+	/* animation: 1s ease-out 0s 1 slideInFromLeft; */
 
 	text-align: right;
 	text-transform: uppercase;
